@@ -2,5 +2,9 @@
   {
     "package": "DMCfun",
     "oncran": true
+  },
+  {
+    "package": "psychReport",
+    "oncran": true
   }
 ]

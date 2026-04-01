@@ -5,6 +5,3 @@
 [submodule "DMCfun"]
 	path = DMCfun
 	url = https://github.com/igmmgi/dmcfun
-[submodule "psychReport"]
-	path = psychReport
-	url = https://github.com/igmmgi/psychreport
